@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png">
 
-Eu me chamo Renato, atualmente estou trabalhando como programador WEB na empresa KENNEN tecnologia e também estudo Análise e desenvolvimento de sistemas. Estou sempre procurando novos desafios e oportunidades para aprender cada vez mais. Quando não estou na frente do computador, você pode me encontrar lendo um bom livro ou jogando um bom jogo.
+My name is Renato,currently working as a WEB programmer at the company KENNEN Tecnologia and I also study Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
 
-Descubra mais sobre mim & sinta-se livre para entrar em contato comigo por aqui:
+Find out more about me & feel free to connect with me here:
 
 <p align="center">
   <a href="https://wa.me/5511967757349">
@@ -28,16 +28,16 @@ Descubra mais sobre mim & sinta-se livre para entrar em contato comigo por aqui:
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Tech Stack
 
-### 🚀 Linguagens
+### 🚀 Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💻 Bibliotecas & Framework
+### 💻 Libraries & Framework
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -45,14 +45,14 @@ Descubra mais sobre mim & sinta-se livre para entrar em contato comigo por aqui:
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Django](https://img.shields.io/badge/dj-Django-green?style=for-the-badge)
 
-### 🧑🏻‍💻 Ferramentas & Plataformas
+### 🧑🏻‍💻 Tools & Platform
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-## 📈 Status
+## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=radical" />
