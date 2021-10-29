@@ -1,4 +1,4 @@
-# Olá, Eu sou Renato! Estou feliz por velo(a) aqui! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width="30px">
+# Hello, I am Renato! Nice to see you here! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width="30px">
 
 <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png">
 
