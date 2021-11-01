@@ -24,7 +24,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Renato's GitHub activity graph](https://github-readme-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=redical)
+![Renato's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=redical)
 
 ---
 
