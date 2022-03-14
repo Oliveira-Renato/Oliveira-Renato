@@ -52,6 +52,11 @@ Find out more about me & feel free to connect with me here:
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=oliveira-renato&theme=nord&column=7" >
+
+
 ## 📈 Stats
 
 <p align="center">
