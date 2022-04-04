@@ -24,7 +24,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-![Renato's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=redical)
+![Renato's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=material-palenight)
 
 ---
 
@@ -62,6 +62,6 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliveira-Renato&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=material-palenight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliveira-Renato&hide_border=true&theme=material-palenight" />
 </p>
