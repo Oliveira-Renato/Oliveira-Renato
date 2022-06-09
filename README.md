@@ -63,6 +63,5 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=material-palenight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Oliveira-Renato&hide_border=true&theme=material-palenight" />
-  <img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=Oliveira-Renato&layout=compact&hide_border=true&theme=material-palenight"  />
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=oliveira-renato&color=blue"/></p>
