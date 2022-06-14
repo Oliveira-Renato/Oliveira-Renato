@@ -4,7 +4,7 @@
 
 My name is Renato, currently working as a WEB programmer at the company KENNEN Tecnologia and also studying Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
 
-Find out more about me & feel free to connect with me here:
+### Find out more about me & feel free to connect with me here:
 
 <p align="center">
   <a href="https://wa.me/5511967757349">
@@ -66,6 +66,6 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 ## 👀 Profile Views
-### counting of visitors to this page started from June 13, 2022
+### Counting of visitors to this page started from June 13, 2022
 
 ![](https://count.getloli.com/get/@oliveira-renato.github.readme?theme=rule34)
