@@ -68,4 +68,4 @@ Find out more about me & feel free to connect with me here:
 ## 👀 Profile Views
 ### counting of visitors to this page from June 13, 2022
 
-![](https://count.getloli.com/get/@oliveira-renato.github.readme)
+![](https://count.getloli.com/get/@oliveira-renato.github.readme?theme=rule34)
