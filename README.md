@@ -22,11 +22,11 @@ My name is Renato, currently working as a WEB programmer at the company KENNEN T
 	</a>
 </p>
 
----
+<!--
 
 ![Renato's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Oliveira-Renato&hide_border=true&theme=material-palenight)
 
----
+-->
 
 ## ⚡ Tech Stack
 
