@@ -4,7 +4,7 @@
 
 My name is Renato, currently working as a WEB programmer at the company KENNEN Tecnologia and also studying Analysis and Systems Development. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
 
-### Find out more about me & feel free to connect with me here:
+<h4 align="center">Find out more about me & feel free to connect with me here:</h4>
 
 <p align="center">
   <a href="https://wa.me/5511967757349">
