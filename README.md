@@ -2,7 +2,9 @@
 
 <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png">
 
-My name is Renato, currently working as a WEB programmer at the company KENNEN Tecnologia. I'm always looking for new challenges and opportunities to learn more and more. When I'm not in front of my computer, you can find me reading a good book or playing a good game.
+Hello! My name is Renato Oliveira, graduated in Systems Analysis and Development from Anhanguera Educacional College. I have 2 years of experience as a Jr Systems Programmer at Kennen Tecnologia, where I worked with JavaScript, MySQL, and ReactJS in the development of systems and websites.
+
+Currently, I am pursuing my first MBA in Full Stack Development. I am passionate about technology and seeking opportunities in the Web Development field, both Front-End and Back-End. I am dedicated, creative, and always eager to update my skills to contribute to innovative projects.
 
 <h4 align="center">Find out more about me & feel free to connect with me here:</h4>
 
