@@ -1,4 +1,4 @@
-# 🌟 Hey, Welcome to My World! I'm Renato Oliveira! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width='30'>  
+# Hey, Welcome to My World! I'm Renato Oliveira! <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width='30'>  
 
 ![Header Image](https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png)
 
