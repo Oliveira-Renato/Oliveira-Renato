@@ -1,76 +1,66 @@
-# <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width='30'>   Hey, Welcome to My World! I'm Renato Oliveira! 
-
 ![Header Image](https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/header_.png)
 
-Olá! Sou **Renato Oliveira**, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras que conectam ideias e tecnologia. 🚀  
+# <img src="https://github.com/Oliveira-Renato/Oliveira-Renato/blob/main/src/wave.gif" width='30'>  Hi, I'm Renato Oliveira 
 
-🎓 **Formação**: Análise e Desenvolvimento de Sistemas  
-💡 **Especialização**: MBA em Desenvolvimento Full Stack  
-🌱 Sempre explorando novas tecnologias e tendências para criar projetos que fazem a diferença.  
-
-Seja bem-vindo(a) ao meu perfil! Aqui você encontrará projetos, experiências e um pouco sobre minha jornada na programação.  
+Welcome to my GitHub! I'm a passionate **Full Stack Developer** from Brazil, always eager to build, learn, and share.
 
 ---
 
-## 🌌 **Let’s Connect!**  
-Você pode me encontrar em todas essas plataformas incríveis. Vamos trocar ideias?  
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://wa.me/seu-numero">
+- 🎓 Graduated in **Analysis and System Development**
+- 🎓 MBA in **Full Stack Development**
+- 💻 Currently working as a **Full Stack Developer**  
+- 🛠️ Main Tech Stack:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
+  ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white) 
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- [**Rateio**](https://github.com/Oliveira-Renato/Rateio)
+- [**Smart Games Store**](https://github.com/Oliveira-Renato/Smart-Games-Store)
+- [**Commerce**](https://github.com/Oliveira-Renato/commerce)
+- [**LetmeAsk**](https://github.com/Oliveira-Renato/LetmeAsk)
+
+---
+
+## 🎧 Interests
+
+- 🎸 Music: Rock and Roll, electronic, and some classical tunes
+- 📚 Books: Sherlock Holmes and other detective classics
+- 🏋️ Gym enthusiast — let's lift!
+
+---
+
+## 🌍 Connect with Me
+
+<p>
+  <a href="https://wa.me/seu-numero" target=”blank”>
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil/">
+  <a href="https://www.linkedin.com/in/seu-perfil/" target=”blank”>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/seu-perfil/">
+  <a href="https://www.instagram.com/seu-perfil/" target=”blank”>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seu-email">
+  <a href="mailto:seu-email" target=”blank”>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://renato-oliveira.vercel.app/" target=”blank”>
+    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>  
 
 ---
 
-## ⚡ **Tech Stack**  
-
-### 💻 **Languages & Tools**  
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,php,python,html,css,tailwind,nodejs,vue,react,nextjs,laravel,mysql,django)  
-
----
-
-## 🛠️ **Favorite Tools**  
-
-- **IDE**: VS Code  
-- **Version Control**: Git & GitHub  
-- **Design Tools**: Figma, Adobe XD  
-
----
-
-## 🏆 **Achievements**  
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=oliveira-renato&theme=nord&column=7)  
-
----
-
-## 📊 **GitHub Stats**  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Oliveira-Renato&show_icons=true&hide_border=true&theme=material-palenight" />
-</p>  
-
----
-
-## 🌱 **Fun Facts About Me**  
-
-- 🌟 Sempre em busca de aprender algo novo todos os dias.  
-- 📚 Apaixonado por compartilhar conhecimento e ajudar outros desenvolvedores.  
-- 🎮 Amante de jogos indie e café forte.  
-
----
-
-## 🌍 **Profile Views**  
-
-![](https://count.getloli.com/get/@oliveira-renato.github.readme?theme=rule34)  
-
---- 
+> "Keep learning, keep building, and keep rocking!" 🤘
